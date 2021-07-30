@@ -1,5 +1,4 @@
 # Talent Management plaform on Blockchain
-This is a project application and therefore cannot be used in a real life. 
 
 ## Dependencies
 This project used a collection of technologies and tools, to run the application, you need to install the following dependencies:
