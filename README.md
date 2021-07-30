@@ -27,6 +27,6 @@ This project used a collection of technologies and tools, to run the application
  ```
  * Install dependencies
   ```
-  $ cd votingSystem
+  $ cd talentchain_code
   $ npm install
   ```
